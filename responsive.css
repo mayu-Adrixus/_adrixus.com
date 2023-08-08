@@ -1,0 +1,476 @@
+/* 1024px */
+@media (max-width: 1024px) {
+    .banner-svg {
+        display: none;
+    }
+
+    .banner-content {
+        padding: 120px 15px 150px;
+        width: 40%;
+    }
+
+    .banner-img {
+        width: 60%;
+    }
+
+    /* Footer */
+    .footer .container {
+        max-width: 960px;
+    }
+}
+
+/* 768px */
+@media (max-width: 768px) {
+    .main-banner .row {
+        flex-direction: column-reverse;
+    }
+
+    .banner-content {
+        padding-top: 40px;
+        padding-bottom: 70px;
+        width: 100%;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .banner-img {
+        width: 100%;
+        padding-top: 90px;
+        text-align: center;
+    }
+
+    /* Service Section */
+    .service-offering {
+        width: 90%;
+        padding-top: 80px;
+    }
+
+    /* Footer */
+    .footer .container {
+        max-width: 720px;
+    }
+
+    .footer-contact-info h4 {
+        font-size: 20px;
+    }
+
+    .copy-right-text {
+        margin: 0 auto;
+    }
+}
+
+/* footer */
+@media (max-width: 642px) {
+    .contact-form {
+        width: 100%;
+        margin-left: 16px;
+    }
+
+    .footer-navbar {
+        width: 100%;
+        margin-left: 16px;
+    }
+
+    .footer-contact-info {
+        width: 100%;
+        margin-left: 16px;
+    }
+
+    
+
+    .half-li {
+        width: 100%;
+    }
+
+    .copy-right-menu ul li:first-child {
+        padding: 0 20px;
+    }
+
+    .social-links {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .social-links ul li {
+        justify-content: space-between;
+    }
+}
+
+/* 425px */
+@media (max-width: 425px) {
+    .enquiry-btn {
+        display: none;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    .logo {
+        width: 50%;
+        padding: 0 15px;
+    }
+
+    .header-right {
+        width: 50%;
+    }
+
+    .banner-content {
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 15px;
+    }
+
+    .main-navigation {
+        padding-top: 24px;
+    }
+
+    /* Service Section */
+    .service-offering h3 {
+        font-size: 30px;
+        margin: 55px 0;
+    }
+
+    .service-offering h4 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-top: 0;
+    }
+
+    .service-list {
+        font-size: 20px;
+    }
+
+    /* footer
+    .contact-form {
+        width: 100%;
+        margin-left: 16px;
+    }
+
+    .footer-navbar {
+        width: 100%;
+        margin-left: 16px;
+    }
+
+    .footer-contact-info {
+        width: 100%;
+        margin-left: 16px;
+    }
+
+    .full-li {
+        margin-left: 16px;
+    }
+
+    .half-li {
+        width: 100%;
+    }
+
+    .copy-right-menu ul li:first-child {
+        padding: 0 20px;
+    } */
+
+
+}
+
+/* 320px */
+@media (max-width: 320px) {
+    .banner-content {
+        padding-right: 25px;
+    }
+
+    /* footer */
+    .copy-right-text {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+}
+
+
+
+/* --- Career Section --- */
+@media (max-width: 1200px) {
+    .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 540px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+    
+}
+
+@media (max-width: 640px) {
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+
+    .heading-text1 h2 {
+        font-size: 30px;
+    }
+
+    .heading-text2 h2 {
+        font-size: 30px;
+    }
+    
+}
+
+
+/* 1024px width */
+@media (max-width: 1024px) {
+    .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+
+    .heading-text1 {
+        margin-top: 80px;
+        margin-bottom: 35px;
+    }
+
+    .heading-text1 h2 {
+        padding-bottom: 66px;
+    }
+
+    .heading-text2 h2 {
+        padding-bottom: 66px;
+    }
+
+    .col-100 {
+        padding: 0 30px;
+    }
+
+    /* .social-links ul li {
+        padding: 0px 15px;
+        display: inline-block;
+    } */
+
+}
+
+/* 768px width */
+@media (max-width: 768px) {
+    .container {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+
+    .logo {
+        width: 30%;
+        max-width: 190px;
+    }
+
+    .header-right {
+        width: 70%;
+    }
+
+    .nav-menu {
+        display: none;
+    }
+
+    .col-50 {
+        max-width: 100%;
+        padding: 10px;
+    }
+
+    .col-50 .img-2 {
+        display: none;
+    }
+
+    .col-50-hide {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .careerbanner {
+        max-height: 980px;
+        text-align: center;
+    }
+
+    .career-banner-text {
+        min-height: 150px;
+    }
+
+    .heading-text1 {
+        margin-top: 50px;
+        padding-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .heading-text2 {
+        margin-top: 50px;
+        padding-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    /* Opportunities Section */
+    .ph-select {
+        width: 46%;
+    }
+
+    .ph-search {
+        width: 100%;
+    }
+
+    .job-list ul li:first-child {
+        margin-top: 190px;
+    }
+
+    .job-list ul li a {
+        height: 160px;
+    }
+
+    .div-box-1,
+    .div-box-2,
+    .div-box-3,
+    .div-box-4 {
+        width: 50%;
+    }
+
+    .div-box-3 {
+        margin-top: 16px;
+    }
+
+    .div-box-4 {
+        margin-top: -46px;
+    }
+
+    .footer .container {
+        max-width: 768px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+}
+
+/* 425px width */
+@media (max-width: 425px) {
+    .container {
+        max-width: 425px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+
+    .career-banner-section {
+        padding-top: 20px;
+    }
+
+    .careerbanner {
+        max-height: auto;
+    }
+
+
+
+    .career-banner-text {
+        min-height: auto;
+        padding: 0;
+        text-align: center;
+    }
+
+    .col-100 {
+        padding: 0 15px;
+    }
+
+    .career-banner-img {
+        margin-top: 60px;
+    }
+
+    .heading-text1 h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: 55px 0;
+        padding-bottom: 0;
+    }
+
+    .heading-text2 h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: 55px 0;
+        padding-bottom: 0;
+    }
+
+    .banefit-col-50 {
+        max-width: 100%;
+    }
+
+    /* .social-links ul li {
+        padding: 0 15px;
+    } */
+
+    
+}
+
+/* 320px width  */
+@media (max-width: 380px) {
+    .container {
+        max-width: 960px;
+        width: 120%;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+
+    .logo {
+        width: 40%;
+    }
+
+    .header-right {
+        width: 45%;
+    }
+
+    .sticky {
+        width: 120%;
+    }
+
+    .job-list ul li:first-child {
+        margin-top: 240px;
+    }
+
+    .job-list ul li a {
+        height: 190px;
+    }
+
+    .div-box-1,
+    .div-box-2,
+    .div-box-3,
+    .div-box-4 {
+        width: 100%;
+    }
+
+    .job-list ul li a {
+        height: 262px;
+    }
+
+    .div-box-2,
+    .div-box-3,
+    .div-box-4 {
+        margin-top: 5px;
+    }
+
+    .footer .logo img {
+        max-width: 190px;
+    }
+
+    /* .social-links ul li {
+        padding: 0 12px;
+    } */
+}
